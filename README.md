@@ -1,3 +1,3 @@
 # Enseñandole Git y Github a Camilo
 
-Learning
+Teaching https://github.com/chokpik how to use git/github
